@@ -5,7 +5,7 @@ subtitle:  "Wake up and smell the business"
 date:   2023-04-17 09:00:00 -0700
 categories: post
 ---
-![coffee with a heart](/_img/coffee_heart.jpg)
+![coffee with a heart](/assets/coffee_heart.jpg)
 
 It's been eleven years since I started my journey of espresso making. When you first try to learn a new craft, it is certainly a humbling experience full of highs but also many lows. Until I got the opportunity of using a good coffee grinder and prosumer espresso machine, I had not even noticed how fascinating this world was and the many things you had to learn to make good espresso. 
 
