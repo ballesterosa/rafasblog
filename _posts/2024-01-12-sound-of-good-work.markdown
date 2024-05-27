@@ -4,6 +4,8 @@ title:  "Did you hear the thundering sound of good work?"
 date:   2024-01-12 16:50:13 -0700
 categories: post
 ---
+![tree struck by lightning](/assets/tree_struck_by_lightning.jpg)
+
 You’ve probably heard the famous quote from the Irish philosopher [George Berkeley] (https://en.wikipedia.org/wiki/George_Berkeley): “If a tree falls in the forest and no one is around to hear it, does it make a sound?”. Yes, you’ve probably done good work last year, but did you make sure you communicated this?
 I’m not talking about being a business charlatan that is always tooting their own horn, but there is sometimes the narrow assumption that good work speaks for itself. Recently, I was reminded that no matter how much good work you do, if there’s no good report associated with those accomplishments, very few would care. Guess what, you may miss a promotion, or lose that recurring business, or simply fall into the oblivion of things nobody remembers because they just work.
 Yes, you need to find a way to showcase your wins, your good work, your accomplishments, to your manager, your leadership team, and your customers. I’ve put together some tips to follow when you’re creating a report to showcase your work.
