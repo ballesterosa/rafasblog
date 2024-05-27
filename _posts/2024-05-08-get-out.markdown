@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Get out!"
+date:   2024-05-08 09:00:00 -0700
+categories: post
+---
+![helping Norman sell his house](/assets/house-for-sale.jpg)
+
+Yes, you've probably seen or heard about this movie. This is the feeling you sometimes get when you visit a house you liked online but soon discover it was really not what you're looking for. Can a better digital experience help avoid prospective buyers avoid wasting their time and also make houses be sold faster?
+I recently purchased a house in my hometown in the south of Spain. My wife and I were looking to finally get a property there that we could both call home and possibly put it in the short-term rental market to pay some of the expenses. We will see how that goes (it may be part of a future post) but this one is about the intersection of technology and real state.
+My first two experiences of buying a home in the US were guided by the likes of Redfin and Zillow. No, I don’t have any link to any of these companies, but this is the standard I had before seeing what was out there in other countries.
+First, some idiosyncrasies of the housing market in Spain as compared to the US:
+- Spain, like many other countries, doesn’t have a free digitally searchable and publicly available record of the price a property was sold for. You must pay a fee to a government agency to get information for a specific property.
+- Property taxes are low. You pay between 0.5 to 1% of the assessed property value.
+- Exact locations are usually not disclosed because owners are afraid of squatters.
+These create a weird set up of lack of transparency in house prices and not very motivated sellers with some properties staying on the market for years.
+Going back to the main topic, there are two main sites that I used on a regular basis to find houses or apartments to buy over roughly two years. These were Idealista, which operates in Spain, Portugal and Italy, and Fotocasa who owns the web portal Habitaclia.
+I will focus from this point forward on some of the issues I see with these sites that really impact the experience of a potential buyer.
+1. **Your photos suck. Big time!**
+There seems to be no standard for the pictures that these real state web portals allow. I am assuming that the motivation is to have the seller or realtor to be able to put up their post fast but as a company whose goal would be, I hope, to try to provide the fastest, more streamlined sales experience possible, the lack of enforcing some standards in these photos is killing the business. Many of the pictures I saw were off-putting and I had to exercise my imagination to guess that the property was worth a visit. I discarded many properties based on few and poorly taken pictures.
+1. **What am I really looking at here?**
+Many properties were poorly described with incomplete or incorrect information. From incorrect description of the type of property to missing rooms, bathrooms, amenities. It is really an obstacle race to find the property that really checks all the boxes. You could say this is also the seller or realtor’s responsibility but, as I’ll expand below, there are technology solutions that can help sellers and realtors do a better job at nailing the description of the property and avoid PUTTING THE WHOLE TEXT IN ALL CAPS!
+1. **Alerts or spam?**
+After my first few searches in some of these sites, I started receiving frequent alerts about properties in the area I was looking for. These were a little bit too much. No, I am not against email alerts, and I think they are a good way of keeping you up to date when you’re interested in a product or service, but these alerts lacked focus. They seemed to know very little about what I was looking for and they made me waste a lot of time. Also, since I saw the same property advertised by different realtors, I think I saw houses I was not interested in that appear in my inbox hundreds of times.
+1. **What is the value of this house really?**
+Both property portals I used on a regular basis offer a paid service to provide you with an estimation of the price of the property. I did use this service a few times but noticed how far away the recommended price was to the actual seller’s advertised price. Shouldn’t these companies tell sellers when their price is way above the average in the same area and with the same characteristics before they post their ad? The answer is yes, they offer these services but somehow, these features are not being used by the sellers.
+Of course, there is a balance between improving the buyer experience and making it easy for sellers to post their properties for sale but there are some compromises that can be done.
+Here are my top suggestions to improve the buyer experience and not alienate posters.
+- **Photo quality validator**
+There is no good reason for having lousy pictures. Right now, most people have cameras on their mobile devices that can take good quality pictures. What´s the catch, no matter how good the camera on your phone is, some folks have no idea how to position the camera to take a good room shot. A good wizard on a phone app, could provide a good recommendation for how to take a good shot of every room depending on the size and room type. After the shot is taken, an automatic post processing could take care of beatification of the picture by tweaking the brightness and contrast and could remove some unwanted items from the pictures. This could be done automatically or semi-automatically by letting users select what needs to be adjusted or removed.
+- **Matching pictures with key rooms and amenities**
+The app could automatically recognize rooms and tag them. If this automatic recognition does not work, the app could suggest a flow for the pictures that is provided with the distribution of the house. It could flag amenities indicated by the seller that do not have an associated picture and recommend adding that picture to improve the post and hence the time to sell.
+- **Automatic creation of a floor plan**
+Some of the hardest thing for a buyer is to understand the layout of the property. Most posts do not include a floor plan. By adding a feature where you can easily translate a video or sequence of pictures into a floor plan, you could provide the key ingredient to prospective buyers to see if this is a property they are interested in and avoid disappointment at the time of the in-person visit.
+- **Virtual video visit creator**
+A good wizard can suggest and guide the creation of a virtual visit that can be stitched up with good set of pictures or with video that can have an automatic postproduction.
+-  **Virtual staging of the rooms**
+Most houses that are on sale could benefit from AI staging by adding different types of furniture, decorative items and even changing the color and floor. Yes, this can be done with AI and would make prospective buyers more prone to seeing the potential of a space with the house. You could offer this to the seller or to the buyer with a “stage this space” option.
+- **Star rating system**
+Similar to products that are being sold on the internet, there should be a value and rating that is automatically assigned to the property based on key details not just from the size, number of rooms and amenities but also on the analysis of the pictures and defects found automatically.
+- **Property description generator** 
+With the advent of LLMs, it is simple to use a foundational model to go from a set of property features to a written description of the house or apartment. This can help avoid disparities between listed amenities and the description and also, speed up the process of posting the property while making it sound more professional. You could even create a few versions so that the poster can select from more serious to more engaging or funny descriptions. (never underestimate the power of humor).
+- **Alert clustering and personalization**
+To avoid a cry wolf effect, there needs to be a smart clustering of alerts and a good recommender engine to align the alerts to what the prospective buyers are looking for. Applying a good flow for the alerts would limit the properties that are sent to prospective buyers to only those that they are interested in. This can be done, for example, by assigning better weights to the type of property, location, and specific amenities that the buyers are looking at. You can build a profile of the user based on individual preferences and align with the intersection of properties that meet these preferences. I’d say less is more in this area, so good targeting is key to not overwhelming buyers. Also, avoiding duplication in the alerts by implementing an algorithm that detects when a house has been posted multiple times and building a feature in the UI that shows it as being the same house sold by different realtors.
+
+To summarize, there is no time like now to create a great experience for buyers and sellers. Companies just need the right amount of imagination and a good set of features to make this a pleasant experience to both buyers and sellers.
+ 
